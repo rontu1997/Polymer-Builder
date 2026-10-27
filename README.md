@@ -11,8 +11,19 @@ two tools:
 
 Results can be saved as PDB, MOL, or MOL2.
 
+## Get the repository
+
+This project is published at
+[github.com/rontu1997/Polymer-Builder](https://github.com/rontu1997/Polymer-Builder).
+
+```powershell
+git clone https://github.com/rontu1997/Polymer-Builder.git
+cd Polymer-Builder
+```
+
 ## Contents
 
+- [Get the repository](#get-the-repository)
 - [Chemistry model / scope](#chemistry-model--scope)
 - [Features](#features)
 - [How to use](#how-to-use)
@@ -277,7 +288,7 @@ these are not reachable from the interface.
 
 ## Setup (Windows, using `uv`)
 
-Use Python 3.11 or newer. From the project directory, run:
+Use Python 3.11 or newer. From the cloned project directory, run:
 
 ```powershell
 uv sync
